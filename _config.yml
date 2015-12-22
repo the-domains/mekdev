@@ -2,6 +2,7 @@ name: mekdev
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.50119
+title: Mekdev
 cta:
   domain: null
   bucket: null
